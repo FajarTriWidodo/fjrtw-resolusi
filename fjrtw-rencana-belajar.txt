@@ -5,3 +5,8 @@ RENCANA BELAJAR FAJAR
 - Belajar NodeJs
 - Belajar lebih dalam mengenai Javascript DOM
 - Belajar web responsive
+- Belajar JS Framework
+  *Vue Js
+  *ract
+- Belajar PHP Framework
+  *Laravel
