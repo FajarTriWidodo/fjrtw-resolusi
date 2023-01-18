@@ -5,7 +5,7 @@ RENCANA BELAJAR FAJAR
 - Belajar lebih dalam mengenai Javascript DOM
 - Belajar web responsive
 - Belajar JS Framework
-  *Angular
-  *React
+  *Vue Js
+  *ract
 - Belajar PHP Framework
-  *laravel
+  *Laravel
