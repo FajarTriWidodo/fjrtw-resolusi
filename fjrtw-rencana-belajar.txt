@@ -7,5 +7,6 @@ RENCANA BELAJAR FAJAR
 - Belajar web responsive
 - Belajar JS Framework
   *Vue Js
+  *ract
 - Belajar PHP Framework
   *Laravel
