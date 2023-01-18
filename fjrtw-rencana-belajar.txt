@@ -1,0 +1,4 @@
+RENCANA BELAJAR FAJAR
+- Belajar CSS Framework
+- Belajar lebih dalam mengenai Javascript DOM
+- Belajar web responsive
