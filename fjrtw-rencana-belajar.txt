@@ -1,4 +1,6 @@
 RENCANA BELAJAR FAJAR
 - Belajar CSS Framework
+  *Bootstrap 5
+  *Tailwinds
 - Belajar lebih dalam mengenai Javascript DOM
 - Belajar web responsive
